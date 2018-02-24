@@ -1,0 +1,3 @@
+﻿  Support.cpp
+c:\users\kagaya\desktop\git_c_plus_plus\t_008_storage_classes\t_008_storage_classes\support.cpp(7): error C2065: 'cout': undeclared identifier
+c:\users\kagaya\desktop\git_c_plus_plus\t_008_storage_classes\t_008_storage_classes\support.cpp(7): error C2065: 'endl': undeclared identifier

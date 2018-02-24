@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  T_015_Casting_Operator.cpp
+c:\users\kagaya\desktop\git_c_plus_plus\t_015_casting_operator\t_015_casting_operator\t_015_casting_operator.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  T_015_Casting_Operator.vcxproj -> C:\Users\kagaya\Desktop\Git_C_Plus_Plus\T_015_Casting_Operator\Debug\T_015_Casting_Operator.exe

@@ -1,0 +1,5 @@
+﻿  T_009_Operators.cpp
+c:\users\kagaya\desktop\git_c_plus_plus\t_009_operators\t_009_operators\t_009_operators.cpp(236): warning C4129: ' ': unrecognized character escape sequence
+c:\users\kagaya\desktop\git_c_plus_plus\t_009_operators\t_009_operators\t_009_operators.cpp(240): warning C4129: ' ': unrecognized character escape sequence
+c:\users\kagaya\desktop\git_c_plus_plus\t_009_operators\t_009_operators\t_009_operators.cpp(209): warning C4101: 'f': unreferenced local variable
+  T_009_Operators.vcxproj -> C:\Users\kagaya\Desktop\Git_C_Plus_Plus\T_009_Operators\Debug\T_009_Operators.exe
