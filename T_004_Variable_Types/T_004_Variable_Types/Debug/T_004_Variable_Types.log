@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  T_004_Variable_Types.cpp
+c:\users\kagaya\desktop\git_c_plus_plus\t_004_variable_types\t_004_variable_types\t_004_variable_types.cpp(98): warning C4305: '=': truncation from 'double' to 'float'
+  T_004_Variable_Types.vcxproj -> C:\Users\kagaya\Desktop\Git_C_Plus_Plus\T_004_Variable_Types\Debug\T_004_Variable_Types.exe
