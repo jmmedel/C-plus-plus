@@ -1,0 +1,3 @@
+﻿  T_035_Numbers.cpp
+c:\users\kagaya\desktop\git_c_plus_plus\t_035_numbers\t_035_numbers\t_035_numbers.cpp(89): warning C4305: '=': truncation from 'double' to 'float'
+  T_035_Numbers.vcxproj -> C:\Users\kagaya\Desktop\Git_C_Plus_Plus\T_035_Numbers\Debug\T_035_Numbers.exe
