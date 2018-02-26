@@ -26,6 +26,8 @@ It is legal to use array names as constant pointers, and vice versa. Therefore, 
 
 Once you store the address of first element in p, you can access array elements using *p, *(p+1), *(p+2) and so on. Below is the example to show all the concepts discussed above −
 In the above example, p is a pointer to double which means it can store address of a variable of double type. Once we have address in p, then *p will give us value available at the address stored in p, as we have shown in the above example.
+ *
+ *
  * */
 int main() {
 	// an array with 5 elements.
